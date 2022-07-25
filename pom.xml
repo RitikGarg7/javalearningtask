@@ -22,8 +22,6 @@
             <version>4.13.2</version>
             <scope>test</scope>
         </dependency>
-<!--        git remote set-url origin https://<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>@github.com/<RitikGarg7>/<javalearningtask.git>-->
-        git remote set url origin https://<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>@github.com/RitikGarg7>/<javalearning>.git</javalearning>
     </dependencies>
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
